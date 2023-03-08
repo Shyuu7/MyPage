@@ -1,0 +1,31 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image {
+  object-fit: cover;
+  border-style: outset;
+  border-color: darkcyan;
+  border-width: 5px 5px 5px 5px;
+}
+
+h1 {
+  color: darkcyan;
+}
+
+h3 {
+  color: darkcyan;
+  font-size: 20px;
+}
+
+.mainText {
+  text-align: center;
+}
+
+a {
+color: darkcyan;
+}
